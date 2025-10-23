@@ -1,1 +1,2 @@
-.logs*
+# Ignore all deployment log files
+deploy_*.log
